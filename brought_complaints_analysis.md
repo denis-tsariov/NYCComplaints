@@ -1,0 +1,1 @@
+Illegal Parking" is NYC's most common 311 complaint type in 2024. Summer months (Jun-Jul) had 8% more complaints than winter (Jan-Feb), with June peaking at 46,372 complaints, suggesting increased street activity and parking demand during warmer weather drives higher violation reports.
