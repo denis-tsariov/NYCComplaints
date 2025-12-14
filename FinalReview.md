@@ -271,9 +271,9 @@ args = parser.parse_args()
 
 1. Motivation - why this taxonomy was built
 2. Each taxonomy category
-   a. Definition
-   b. Examples (positive and negative)
-   c. Edge cases (what's in, but might not look like it; what's out, but might look like it)
+    1. Definition
+    2. Examples (positive and negative)
+    3. Edge cases (what's in, but might not look like it; what's out, but might look like it)
 
 ## HW11 - Automated Data Annotation
 
