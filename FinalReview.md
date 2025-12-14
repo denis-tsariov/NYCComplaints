@@ -85,6 +85,12 @@ Betweenness: how many shortest paths pass through a node
 4. Support by extrapolating from results
 5. Use point to make the meta point
 
+### Tricky cases in data annoatation
+- Tricky edge cases
+- Bad annotators
+- Human error
+- Ambiguous guidelines
+
 What perceptual constraints does the audience have?
 
 - Resolution
