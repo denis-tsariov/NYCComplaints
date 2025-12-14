@@ -52,17 +52,17 @@ Extends topology document and includes challenging examples.
 ### Human coding process
 
 1. Preparation phase
-    - Decide coding group
-    - Develop code book
-    - Develop annotation software (if needed)
+   - Decide coding group
+   - Develop code book
+   - Develop annotation software (if needed)
 
 2. Annotation phase
-    - Recruit annotators
-    - Train annotators
-    - Coding exercises
+   - Recruit annotators
+   - Train annotators
+   - Coding exercises
 
 3. Validation phase
-    - Throughout, assess quality and level of agreement
+   - Throughout, assess quality and level of agreement
 
 ### TF-IDF
 
@@ -86,6 +86,7 @@ Betweenness: how many shortest paths pass through a node
 5. Use point to make the meta point
 
 ### Tricky cases in data annoatation
+
 - Tricky edge cases
 - Bad annotators
 - Human error
@@ -95,6 +96,12 @@ What perceptual constraints does the audience have?
 
 - Resolution
 - Color perception
+
+### Centrality
+
+- Degree
+- Closeness -> how close to any other node
+- Betweenness -> how many shortest paths pass through a node
 
 ### Structure of a written report
 
@@ -277,9 +284,9 @@ args = parser.parse_args()
 
 1. Motivation - why this taxonomy was built
 2. Each taxonomy category
-    1. Definition
-    2. Examples (positive and negative)
-    3. Edge cases (what's in, but might not look like it; what's out, but might look like it)
+   1. Definition
+   2. Examples (positive and negative)
+   3. Edge cases (what's in, but might not look like it; what's out, but might look like it)
 
 ## HW11 - Automated Data Annotation
 
